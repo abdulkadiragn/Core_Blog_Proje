@@ -1,0 +1,17 @@
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\bin\Debug\net5.0\Entity.dll
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\bin\Debug\net5.0\Entity.pdb
+C:\Users\Abdulkadir\source\repos\CoreBlog\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
